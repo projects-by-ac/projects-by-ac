@@ -8,7 +8,9 @@
   -  ui design🎨
   -  fixing bugs🪳
   -  linux🐧 /macOS🍏 /windows🪟
-- 🌱 Currently learning YAML
+- 🌱 Currently learning:
+  - YAML
+  - Linux System Administration
 - 👨🏻‍💻 I’m looking to collaborate on:
   - projects involving server-related builds/apps/bugs
   - creating a linux "debian-based" distro
