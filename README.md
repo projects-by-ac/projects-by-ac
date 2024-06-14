@@ -3,8 +3,8 @@
 
 - 🛠️ @projects-by-ac
 - 💡 Interested in building servers/computers + vm/container deployment + fixing bugs
-- 🖥️ Linux🐧 / macOS🍏 / Windows🪟
-- 🌱 Currently learning ...
+- 🖥️ linux🐧 / macOS🍏 / windows🪟
+- 🌱 Currently learning YAML
 - 👨🏻‍💻 I’m looking to collaborate on:
 - - projects involving server-related builds/apps/bugs
 - - creating a linux "debian-based" distro
