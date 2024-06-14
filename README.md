@@ -12,9 +12,9 @@
 - 👨🏻‍💻 I’m looking to collaborate on:
   - projects involving server-related builds/apps/bugs
   - creating a linux "debian-based" distro
-  - 2 projects i'm currently working on related to macOS:
-      - 📋 iServer (lxc containers incl. dashboard/homebridge/uptime-kuma)
-      - 📋 iNAS (nas-server optimized for macOS incl. time machine)
+  - 2 older projects i'm currently refining related to macOS:
+      -  iServer {lxc containers incl. dashboard/homebridge/uptime-kuma}
+      -  iNAS {nas-server optimized for macOS incl. time machine}
 - 📨 Contact me: ac.projecthub@gmail.com
 
 <!---
