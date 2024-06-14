@@ -9,7 +9,7 @@
 - - projects involving server-related builds/apps/bugs
 - - creating a linux "debian-based" distro
 - - 2 projects i'm currently working on related to macOS: {iServer} & {iNAS}
-- 📧 How to reach me: ac.projecthub@gmail.com
+- 📨 How to reach me: ac.projecthub@gmail.com
 
 <!---
 projects-by-ac/projects-by-ac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
