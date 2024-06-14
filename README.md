@@ -7,7 +7,7 @@
   -  vm📦 /container🐳 deployment
   -  ui design🎨
   -  fixing bugs🪳
-- linux🐧 / macOS🍏 / windows🪟
+  -  linux🐧 /macOS🍏 /windows🪟
 - 🌱 Currently learning YAML
 - 👨🏻‍💻 I’m looking to collaborate on:
   - projects involving server-related builds/apps/bugs
