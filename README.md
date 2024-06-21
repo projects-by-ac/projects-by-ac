@@ -15,7 +15,7 @@
 - 🌱 **currently learning:**
   -  *XML/YAML*
   -  *docker-compose*
-  -  *swiftUI (building macos apps)*
+  -  *swiftUI (macos applications)*
 - 👨🏻‍💻 **looking to collaborate on:**
   - *projects involving server-related builds/apps/bugs*
   - *creating a linux "debian-based" distro*
