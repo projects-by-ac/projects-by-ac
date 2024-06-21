@@ -9,9 +9,10 @@
   -  *vm📦 /container🐳 deployment*
   -  *ui design🎨*
   -  *fixing bugs🪳*
-  -  *linux🐧 /macOS🍏 /windows🪟*
 - 📚 **language skills:**
   -  *shell scripting{bash}/yaml/xml/json*
+- ⚙️ **workspace:**
+  -  *linux🐧 /unix✖️/macOS🍏 /windows🪟*
 - 🌱 **currently learning:**
   -  *XML/YAML*
   -  *docker-compose*
