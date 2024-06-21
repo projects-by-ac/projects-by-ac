@@ -4,19 +4,19 @@
 
 - 🛠️ **@projects-by-ac**
 
-- 📚 language skills:
-  -  *shell scripting{bash}/yaml/xml/json*
-- 💡 interested in:
+- 💡 **interested in:**
   -  *building servers🛰️ /computers🖥️*
   -  *vm📦 /container🐳 deployment*
   -  *ui design🎨*
   -  *fixing bugs🪳*
   -  *linux🐧 /macOS🍏 /windows🪟*
-- 🌱 currently learning:
+- 📚 **language skills:**
+  -  *shell scripting{bash}/yaml/xml/json*
+- 🌱 **currently learning:**
   -  *XML/YAML*
   -  *docker-compose*
   -  *swiftUI (building macos apps)*
-- 👨🏻‍💻 looking to collaborate on:
+- 👨🏻‍💻 **looking to collaborate on:**
   - *projects involving server-related builds/apps/bugs*
   - *creating a linux "debian-based" distro*
   - *2 older projects i'm currently refining related to macOS:*
