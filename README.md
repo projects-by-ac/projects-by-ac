@@ -10,7 +10,7 @@
   -  *ui design🎨*
   -  *fixing bugs🪳*
 - 📚 **language skills:**
-  -  *shell scripting{bash}/yaml/xml/json*
+  -  *shell scripting{bash}/yaml/xml/json/html*
 - ⚙️ **workspace:**
   -  *linux🐧 /unix✖️/macOS🍏 /windows🪟*
 - 🌱 **currently learning:**
