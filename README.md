@@ -3,10 +3,12 @@
  
 > shell scripting / troubleshooting / debugging / technical writing
 
-> over 15 years of experience building/installing/configuring servers & pc's
+> over 15 years of experience building, installing + configuring servers & pc's
 
+>
 > 
 ##
+
 
 - 💡 **interested in:**
   
