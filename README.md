@@ -5,10 +5,9 @@
 
 > over 15 years of experience building, installing + configuring servers & pc's
 
->
 > 
 ##
-
+###
 
 - 💡 **interested in:**
   
