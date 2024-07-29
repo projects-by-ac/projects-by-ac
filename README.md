@@ -9,7 +9,13 @@
 - 📚 **language skills:**
   -  *shell scripting{bash}/yaml/xml/json/html*
 - ⚙️ **workspace:**
-  -  *linux🐧 /unix✖️/macOS🍏 /windows🪟*
+  -  *linux🐧/unix*
+     -  *ubuntu server♻️(ssh/ftp/smb/webservices)*
+     -  *proxmox✖️(vm's + lxc containers)*
+     -  *freenas🦈/truenas-core (jails + smb shares)*
+     -  *docker🐳/truenas-scale (docker containers)*
+  -  *macOS🍏*
+  -  *windows🪟*
 - 🌱 **currently learning:**
   -  *XML/YAML*
   -  *docker-compose*
