@@ -1,13 +1,14 @@
 ## <img align="left" width="180" height="180" src="https://github.com/projects-by-ac/projects-by-ac/assets/172689188/8076a1fa-4338-455c-8c2f-b15c07f743d0">
  ### 🛠️ **@projects-by-ac**
  
-> shell scripting / troubleshooting / debugging / technical writing
+> **shell scripting / troubleshooting / debugging / technical writing**  
 
 > over 15 years of experience building, installing + configuring servers & pc's
 
-> 
-##
-###
+>  
+#
+
+**IT TECHNICIAN / SHELL SCRIPT DEVELOPER / SYSTEM ADMINISTRATOR**  
 
 - 💡 **interested in:**
   
@@ -19,8 +20,14 @@
 - 📚 **language skills:**
   
   -  *shell scripting{bash}/yaml/xml/json/html*
-    
-- ⚙️ **workspace:**
+ 
+- 🌱 **currently learning:**
+  
+  -  *XML/YAML*
+  -  *docker-compose*
+  -  *swiftUI (macos applications)*
+        
+- ⚙️ **workspace environment:**
   
   -  *linux🐧/unix*
      -  *ubuntu server (ssh/ftp/smb/webservices)*
@@ -29,12 +36,6 @@
      -  *docker🐳/truenas-scale (docker containers)*
   -  *macOS🍏*
   -  *windows🪟*
-    
-- 🌱 **currently learning:**
-  
-  -  *XML/YAML*
-  -  *docker-compose*
-  -  *swiftUI (macos applications)*
     
 - 👨🏻‍💻 **looking to collaborate on:**
   
